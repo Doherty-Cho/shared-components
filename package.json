@@ -18,5 +18,8 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19"
+  },
+  "exports": {
+    "./components/*": "./src/components/*"
   }
 }
